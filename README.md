@@ -9,12 +9,19 @@ This is Chat commands for anyone running the MilitaryRP Gamemode - [Release] [Po
 Very Simple release for the chat.
 
 /usa message = United States Comms - Name - Message
+
 /usp message = US Air-Force Comms - Name - Message
+
 /ru message = Russian Federation Comms - Name - Message
+
 /rup message = RU Air-Force Comms - Name - Message
+
 /uk message = United Kingdom Comms - Name - Message
+
 /ukp message = UK Air-Force Comms - Name - Message
+
 /cn message = Chinese Comms - Name - Message
+
 /cno message = CN Air-Force Comms - Name - Message
 
 Also as shown below
